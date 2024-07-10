@@ -13,12 +13,9 @@
 
 ![Screenshot 2024-07-10 175051](https://github.com/El-N1ki/RockPaperScisssorsByNiki/assets/175223851/30bcee47-217e-4223-8cfa-095e8043f29a)
 
-
-
-
-
-
 ![Screenshot 2024-07-10 175315](https://github.com/El-N1ki/RockPaperScisssorsByNiki/assets/175223851/6ad328e3-5de5-460e-bca4-7adddc6cc3dd)
+
+[[<img alt ="Play Button" />]] (https://replit.com/@nikiigorna/RockPaperScissors)
 
 
 
